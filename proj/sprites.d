@@ -1,0 +1,19 @@
+
+sprites.o:	/usr/include/limits.h
+sprites.o:	/usr/include/minix/dir.h
+sprites.o:	/usr/include/minix/limits.h
+sprites.o:	/usr/include/minix/sys_config.h
+sprites.o:	/usr/include/minix/types.h
+sprites.o:	/usr/include/stdint.h
+sprites.o:	/usr/include/sys/cdefs.h
+sprites.o:	/usr/include/sys/null.h
+sprites.o:	/usr/pkg/gcc44/lib/gcc/i686-pc-minix/4.4.3/include-fixed/ansi.h
+sprites.o:	/usr/pkg/gcc44/lib/gcc/i686-pc-minix/4.4.3/include-fixed/limits.h
+sprites.o:	/usr/pkg/gcc44/lib/gcc/i686-pc-minix/4.4.3/include-fixed/stdio.h
+sprites.o:	/usr/pkg/gcc44/lib/gcc/i686-pc-minix/4.4.3/include-fixed/stdlib.h
+sprites.o:	/usr/pkg/gcc44/lib/gcc/i686-pc-minix/4.4.3/include-fixed/string.h
+sprites.o:	/usr/pkg/gcc44/lib/gcc/i686-pc-minix/4.4.3/include-fixed/syslimits.h
+sprites.o:	/usr/pkg/gcc44/lib/gcc/i686-pc-minix/4.4.3/include/stdarg.h
+sprites.o:	constants.h
+sprites.o:	sprites.c
+sprites.o:	sprites.h
